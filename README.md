@@ -1,0 +1,1 @@
+## This is the 3D PSF deconvolution main code for the paper "Enhancing 3D migration images resolution: A fast and robust implicit point spread function deconvolution method based on wavenumber domain representation" submitted to computers and geosciences
